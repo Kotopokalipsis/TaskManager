@@ -1,0 +1,17 @@
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\bin\Debug\netcoreapp3.1\SharedKernel.dll
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\bin\Debug\netcoreapp3.1\SharedKernel.pdb
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\Users\Holden\source\repos\TaskManager\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/7L79SmF+kdM4TT9su0SzocAGWxSfEJP6HKuoxIqGuh3svt0VizG0SUBZkIPfWdMkXUvzYFElceI6u73ehJcmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Holden\\source\\repos\\TaskManager\\src\\SharedKernel\\SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Holden\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

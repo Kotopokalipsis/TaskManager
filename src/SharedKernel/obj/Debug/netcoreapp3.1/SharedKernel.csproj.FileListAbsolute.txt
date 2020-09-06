@@ -1,0 +1,9 @@
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\bin\Debug\netcoreapp3.1\SharedKernel.deps.json
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\bin\Debug\netcoreapp3.1\SharedKernel.dll
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\bin\Debug\netcoreapp3.1\SharedKernel.pdb
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\obj\Debug\netcoreapp3.1\SharedKernel.csprojAssemblyReference.cache
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\obj\Debug\netcoreapp3.1\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\obj\Debug\netcoreapp3.1\SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\obj\Debug\netcoreapp3.1\SharedKernel.AssemblyInfo.cs
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\obj\Debug\netcoreapp3.1\SharedKernel.dll
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\obj\Debug\netcoreapp3.1\SharedKernel.pdb

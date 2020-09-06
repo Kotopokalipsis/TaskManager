@@ -1,0 +1,9 @@
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\bin\Debug\netstandard2.0\SharedKernel.deps.json
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\bin\Debug\netstandard2.0\SharedKernel.dll
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\bin\Debug\netstandard2.0\SharedKernel.pdb
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\obj\Debug\netstandard2.0\SharedKernel.csprojAssemblyReference.cache
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\obj\Debug\netstandard2.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\obj\Debug\netstandard2.0\SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\obj\Debug\netstandard2.0\SharedKernel.AssemblyInfo.cs
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\obj\Debug\netstandard2.0\SharedKernel.dll
+C:\Users\Holden\source\repos\TaskManager\src\SharedKernel\obj\Debug\netstandard2.0\SharedKernel.pdb

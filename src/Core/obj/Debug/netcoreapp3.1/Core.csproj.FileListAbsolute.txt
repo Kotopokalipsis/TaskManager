@@ -1,0 +1,12 @@
+C:\Users\Holden\source\repos\TaskManager\src\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Holden\source\repos\TaskManager\src\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Holden\source\repos\TaskManager\src\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Holden\source\repos\TaskManager\src\Core\bin\Debug\netcoreapp3.1\SharedKernel.dll
+C:\Users\Holden\source\repos\TaskManager\src\Core\bin\Debug\netcoreapp3.1\SharedKernel.pdb
+C:\Users\Holden\source\repos\TaskManager\src\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\Holden\source\repos\TaskManager\src\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Holden\source\repos\TaskManager\src\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Holden\source\repos\TaskManager\src\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Holden\source\repos\TaskManager\src\Core\obj\Debug\netcoreapp3.1\Core.csproj.CopyComplete
+C:\Users\Holden\source\repos\TaskManager\src\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Holden\source\repos\TaskManager\src\Core\obj\Debug\netcoreapp3.1\Core.pdb
